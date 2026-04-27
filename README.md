@@ -305,8 +305,6 @@ Department of Computer Science & Engineering, Sharda University, Greater Noida, 
 
 <div align="center">
 
-*Built as part of PBL (Project-Based Learning) — CSP390 | Sharda University*
-
 *"The Green Software Foundation and similar bodies are beginning to formalise what carbon-aware software development looks like in practice. This study shows that complexity analysis and energy profiling — tools developers already use — are sufficient to reason about algorithmic carbon cost."*
 
 </div>
