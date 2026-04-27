@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+psutil==5.9.6
+numpy==1.26.2
+scipy==1.11.4
+pandas==2.1.4
+matplotlib==3.8.2
+fpdf2==2.7.6
+pydantic==2.5.2
